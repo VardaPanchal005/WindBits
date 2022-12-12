@@ -3,6 +3,7 @@ html{
 }
 
 body {
+    font-size: 1.6rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,5 +77,10 @@ input.search-bar {
     color:white;
     position:absolute;
     top:0;
+}
 
+@media screen and (max-width: 798px) {
+    html{
+        font-size: 55%;
+    }
 }
