@@ -55,8 +55,8 @@ input.search-bar {
 
 
 .flex{
-    display:flex;
-    align-items:center;
+    display: flex;
+    align-items: center;
 }
 .description {
     text-transform: capitalize;
